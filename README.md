@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning: Node, Express, Graphql, Neo4j.
 - 👯 I’m looking to collaborate on: Up for anything!
 - 📫 How to reach me: I'll reach you...
-- 😄 Pronouns: he/him/his
 
 <!--
 **faustodc/faustodc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
