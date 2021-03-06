@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustodc&count_private=true&theme=maroongold&include_all_commits=true" alt="Fausto's most used languages stats" />
 
 - 🔭 I’m currently working on: Apps
-- 🌱 I’m currently learning: Node, Express, Graphql, Neo4j.
+- 🌱 I’m currently learning: Vue, Firebase.
 - 👯 I’m looking to collaborate on: Up for anything!
 - 📫 How to reach me: I'll reach you...
 
