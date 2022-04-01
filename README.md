@@ -6,7 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=faustodc&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true" alt="Fausto's github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustodc&count_private=true&theme=maroongold&include_all_commits=true" alt="Fausto's most used languages stats" />
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/fdavila?privacyName=true&privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **faustodc/faustodc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
